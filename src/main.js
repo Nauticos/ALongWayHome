@@ -5,7 +5,7 @@ kaplay({
 });
 
 loadSprite("player", "./public/sprites/player.png");
-loadSprite("house", "../public/sprites/house.png");
+loadSprite("house", "./public/sprites/house.png");
 loadSprite("grassbg", "./public/sprites/grassbg.jpg");
 
 const GRID_SIZE = 7;
