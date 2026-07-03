@@ -4,9 +4,9 @@ kaplay({
     letterbox: true,
 });
 
-loadSprite("player", "./player.png");
-loadSprite("house", "./house.png");
-loadSprite("grassbg", "./grassbg.jpg");
+loadSprite("player", "./public/sprites/player.png");
+loadSprite("house", "../public/sprites/house.png");
+loadSprite("grassbg", "./public/sprites/grassbg.jpg");
 
 const GRID_SIZE = 7;
 const TILE_SIZE = 64;
