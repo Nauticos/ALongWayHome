@@ -1,27 +1,19 @@
-# Folder structure
+A simple game made with JavaScript and Kaplay that utilises randomness as a theme. You play as a dizzy person in a field trying to find their way home.
 
-- `src` - source code for your kaplay project
-- `dist` - distribution folder, contains your index.html, built js bundle and static assets
+![Thumbnail](images/thumbnail.png)
+
+**Demo**
 
 
-## Development
 
-```sh
-$ npm run dev
-```
+**Features**
 
-will start a dev server at http://localhost:8000
+* Player and House sprites drawn by me in Krita
+* Completely random movement
+* 7x7 grid that has random start places for the player and the house
+* Start, game, and victory screens
+* Step counter to see how many steps you took before you reached the house
 
-## Distribution
+</br>
 
-```sh
-$ npm run build
-```
-
-will build your js files into `dist/`
-
-```sh
-$ npm run zip
-```
-
-will build your game and package into a .zip file, you can upload to your server or itch.io / newground etc.
+Made for Hack Club Entropy
