@@ -1,4 +1,4 @@
-A simple game made with JavaScript and Kaplay that utilises randomness as a theme. You play as a dizzy person in a field trying to find their way home.
+A game made with JavaScript and Kaplay that utilises randomness as a theme. You play as a dizzy person in a field trying to find their way home.
 
 ![Thumbnail](images/thumbnail.png)
 
