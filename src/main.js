@@ -4,9 +4,11 @@ kaplay({
     letterbox: true,
 });
 
-loadSprite("player", "/sprites/player.png");
-loadSprite("house", "/sprites/house.png");
-loadSprite("grassbg", "/sprites/grassbg.jpg");
+loadRoot("/ALongWayHome/")
+
+loadSprite("player", "sprites/player.png");
+loadSprite("house", "sprites/house.png");
+loadSprite("grassbg", "sprites/grassbg.jpg");
 
 const GRID_SIZE = 7;
 const TILE_SIZE = 64;
