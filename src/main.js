@@ -1,5 +1,3 @@
-import kaplay from "kaplay";
-
 kaplay({
     width: 800,
     height: 600,
