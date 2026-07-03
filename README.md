@@ -4,7 +4,7 @@ A game made with JavaScript and Kaplay that utilises randomness as a theme. You 
 
 **Demo**
 
-
+https://nauticos.github.io/ALongWayHome/
 
 **Features**
 
